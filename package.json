@@ -11,8 +11,10 @@
   "dependencies": {
     "@tanstack/react-query": "^5.83.0",
     "@trpc/client": "^11.4.3",
+    "@trpc/next": "^11.4.3",
     "@trpc/react-query": "^11.4.3",
     "@trpc/server": "^11.4.3",
+    "autoprefixer": "^10.4.21",
     "next": "15.4.2",
     "react": "19.1.0",
     "react-dom": "19.1.0",
@@ -22,9 +24,9 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@types/node": "^20.19.9",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
     "eslint": "^9",
     "eslint-config-next": "15.4.2",
     "tailwindcss": "^4",
