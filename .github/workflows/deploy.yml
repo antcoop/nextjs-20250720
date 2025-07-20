@@ -39,6 +39,6 @@ jobs:
         with:
           project: "anthonycoop-nextjs-2025-42"
           entrypoint: ".next/standalone/server.js"
-          root: "."
+          root: ".next"
           
           
